@@ -1,1 +1,1 @@
-# statistical_analysis_with_py
+# Python で理解する統計解析の基礎
