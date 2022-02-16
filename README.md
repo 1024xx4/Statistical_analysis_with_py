@@ -8,6 +8,8 @@
 ###### Library
 `NumPy`
 
+---
+
 ######引数:
 
 - bins: 階級数(int)
@@ -18,3 +20,10 @@
 
 ###### Library
 `NumPy`
+
+---
+### `np.cov`
+共分散を求める。
+ただし、返値は、共分散行列（covariance matrix）または、分散共分散行列（variance covariance matrix）と呼ばれる行列
+###### 引数：
+- ddof(delta degree of freedom): デルタ自由度。
