@@ -46,3 +46,12 @@
 
 ###### Library
 `MatplotLib`
+
+---
+### `np.polyfit`
+係数β_0 と β_1 を求める
+
+### `np.ploy1d`
+β_0+β_1 x を返す
+
+`np.ployfit` と `np.poly_1d` から y= β_0 + β_1x の回帰直線を求める
