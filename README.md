@@ -55,3 +55,18 @@
 β_0+β_1 x を返す
 
 `np.ployfit` と `np.poly_1d` から y= β_0 + β_1x の回帰直線を求める
+
+###### Library
+`NumPy`
+
+---
+### `plt.hist2d`
+Heat Map を作る
+
+##### 引数
+第1引数: x軸の Data
+第2引数: y軸の Data
+bins: 階級数(x と y の階級値(int) を格納した list)
+range: 最小値と最大値(Tuple) を格納した list)
+##### Library
+`MatPlotLib`
