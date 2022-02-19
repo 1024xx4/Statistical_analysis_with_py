@@ -4,22 +4,32 @@
 
 ### `np.histogram()`
 度数を求める時に使用
-
-###### Library
-NumPy
-
----
-
 ######引数:
 
 - bins: 階級数(int)
 - range: 最小値と最大値(tuple)
+###### Library
+NumPy
+
+---
 
 ### `np.cumsum()`
 累積和の計算に使用
 
 ###### Library
 NumPy
+
+---
+### `plt.hist()`
+Histogram を描画する
+
+###### 引数:
+- 第１引数: data
+- size: Sample size
+- bins: 階級値
+- range: 最小値と最大値
+- density: `True` で相対度数で集計
+- rwidth: 棒の太さ
 
 ---
 ### `np.cov()`
