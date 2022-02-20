@@ -135,3 +135,7 @@ scipy.stats
 ---
 ### `stats.geom()`
 幾何分布を作る
+
+---
+### `stats.poisson()`
+ポワソン分布を作る
