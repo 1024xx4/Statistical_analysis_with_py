@@ -119,3 +119,14 @@ p: Parameters
 
 ###### Library
 scipy.stats
+
+---
+### `stats.binom()`
+二項分布に従う確率変数をつくる
+###### 返値
+rv_frozen object
+###### 引数
+n: sample size（標本の大きさ)
+p: probability（確率)
+
+###### Library
