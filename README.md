@@ -103,3 +103,39 @@ NumPy
 確率がすべて０以上であるか確認できる。
 #### Library
 NumPy
+
+---
+### `stats.bernoulli()`
+ベルヌーイ分布に従う確率変数をつくることができる
+###### 返り値
+`rv_frozen object` ※ベルヌーイ分布に従う
+- rv_frozen.pmf: 確率関数を計算する
+- rv_frozen.cdf: 累積密度関数を計算でする
+- rv_frozen.mean: 期待値を計算する
+- rv_frozen.var: 分散を計算する
+
+####### 引数
+p: Parameters 
+
+###### Library
+scipy.stats
+
+---
+### `stats.binom()`
+二項分布に従う確率変数をつくる
+###### 返値
+rv_frozen object
+###### 引数
+n: sample size（標本の大きさ)
+p: probability（確率)
+
+###### Library
+scipy.stats
+
+---
+### `stats.geom()`
+幾何分布を作る
+
+---
+### `stats.poisson()`
+ポワソン分布を作る
