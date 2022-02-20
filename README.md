@@ -130,3 +130,8 @@ n: sample size（標本の大きさ)
 p: probability（確率)
 
 ###### Library
+scipy.stats
+
+---
+### `stats.geom()`
+幾何分布を作る
