@@ -146,3 +146,9 @@ scipy.stats
 返り値: 積分と推定誤差  
 引数: 第１引数: 被積分関数, 第２引数と第３引数が積分区間  
 Library: stats.integrate
+
+---
+### `minimize_scaler()`
+関数の最小値を求める
+##### Library
+stats.optimize
