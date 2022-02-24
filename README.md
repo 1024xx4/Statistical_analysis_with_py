@@ -152,3 +152,9 @@ Library: stats.integrate
 関数の最小値を求める
 ##### Library
 stats.optimize
+
+---
+### `integrate.nquad()`
+多重積分を求める
+###### Library
+stats.integrate
