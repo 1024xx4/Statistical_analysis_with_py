@@ -248,3 +248,12 @@ scipy.stats
 指数分布を表現する object を返す
 
 - 引数 Scale: 1 / λ の形で入力
+##### Libray
+scipy.stats
+
+----
+
+### `chi2()`
+カイ二乗分布を表現する object を返す
+###### Libray
+scipy.stats
