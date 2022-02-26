@@ -265,3 +265,11 @@ scipy.stats
 引数に自由度を指定する。
 ##### Library
 scipy.stats
+
+---
+
+### `stats.f()`
+Ｆ分布を表現する Object を返す。
+引数に自由度n1 と自由度n2 を指定する
+###### Library
+scipy.stats
