@@ -241,3 +241,10 @@ stats.integrate
 
 ###### Library
 scipy.stats
+
+---
+
+### `stats.expon()`
+指数分布を表現する object を返す
+
+- 引数 Scale: 1 / λ の形で入力
