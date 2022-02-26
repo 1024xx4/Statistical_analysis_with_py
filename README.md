@@ -253,7 +253,15 @@ scipy.stats
 
 ----
 
-### `chi2()`
+### `stats.chi2()`
 カイ二乗分布を表現する object を返す
 ###### Libray
+scipy.stats
+
+---
+
+### `stats.t()`
+ｔ分布を表現する object を返す
+引数に自由度を指定する。
+##### Library
 scipy.stats
