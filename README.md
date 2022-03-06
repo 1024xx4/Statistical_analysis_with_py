@@ -273,3 +273,11 @@ scipy.stats
 引数に自由度n1 と自由度n2 を指定する
 ###### Library
 scipy.stats
+
+---
+### `stats.chi2_contingency()`
+カイ二乗検定をおこなう
+引数にはクロス集計表を渡し、correction を False にする
+戻り値は、検定統計量、ｐ値、自由度、期待度数になる
+##### Library
+scipy
