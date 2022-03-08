@@ -281,3 +281,12 @@ scipy.stats
 戻り値は、検定統計量、ｐ値、自由度、期待度数になる
 ##### Library
 scipy
+
+---
+### `smf.ols(str, DataFrame).fit()`
+回帰分析を行なう。
+`smf.ols()` に説明変数と応答変数の関係を示した文字列（'説明変数~応答変数' ）と DataFrame を渡し、さらに `fit()` method を呼ぶことで実行
+できる。
+結果は、`summary()` method を呼び出すことで分析結果をすべて出力してくれる。
+##### Library
+statsmodels.formula.api
